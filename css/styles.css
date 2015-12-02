@@ -1,2 +1,15 @@
+/* TOC
+    
+    00. Variables
+    01. Global
+    02. Header
+    03. Footer
 
-/*# sourceMappingURL=styles.css.map */
+*/
+body {
+  background: transparent;
+}
+.wrap {
+  max-width: 900px;
+  margin: 0 auto;
+}
